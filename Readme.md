@@ -1,0 +1,1 @@
+**This notebook and repository serves as a guide to help understand the process of building an end-to-end machine learning project using Scikit-Learn, and following guidence from Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition**
